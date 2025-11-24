@@ -1,20 +1,21 @@
 # ViolENt Delights - Series Bible
 
-**Status:** Active | **Genre:** Detective Mystery / Psychological Thriller / Noir
+**Current Version:** v2.2.0.0
+**Status:** Active | **Genre:** Tech-Noir / Psychological Thriller / Bio-Horror
 **Tagline:** "These Violet delights have violent ends."
 
 ## 1. High Concept
-A freelance asset recovery specialist (Violet Chase) investigates a global trafficking network while haunted by the hallucination of her missing partner (Sylvia Vane). The series blends high-gloss erotica aesthetics with visceral horror and deductive logic.
+A freelance asset recovery specialist (Violet Chase) investigates a global trafficking network in a world on the brink of a transhumanist revolution. Haunted by the hallucination of her missing partner, she exposes the "Underworld" where human bodies are used as wetware to test illegal augmentations.
 
 ## 2. The Core Loop
-1.  **The Anomaly:** Violet identifies a node in the network.
-2.  **The Infiltration:** Violet assumes a persona to enter the "Gilded Cage."
+1.  **The Anomaly:** Violet identifies a node in the network (The Estate, The Rig, etc.).
+2.  **The Infiltration:** Violet assumes a specialized persona to enter the "Gilded Cage."
 3.  **The Anchor:** Violet identifies the Arc's specific Victim/Ally.
-4.  **The Descent:** Investigation deepens; "Sylvia" (Hallucination) becomes aggressive.
+4.  **The Investigation:** Violet uses deductive logic and "Invisible Tech" to map the crime.
 5.  **The Rupture:** Violent climax, rescue, and data extraction leading to the next node.
 
 ## 3. The 3 Hard Rules
-1.  **The Deductive Absolute:** Violet solves problems through hyper-observation. No magic. Visuals: The world slows down, clues glow/outline.
+1.  **The Deductive Absolute:** Violet solves problems through hyper-observation augmented by her AR "Halo." Visuals: The world slows down, clues glow/outline.
 2.  **The Arc Anchor:** Every arc mandates a unique Ally/Victim model to ground the story emotionally.
 3.  **The Watson Variance:** "Sylvia" is an entity of ambiguous reality (ghost vs. psychosis). She interacts only with Violet.
 
