@@ -1,0 +1,34 @@
+# --- System & OS ---
+.DS_Store
+Thumbs.db
+
+# --- Python  Colab ---
+__pycache__
+.py[cod]
+$py.class
+venv
+.env
+.ipynb_checkpoints
+
+# --- Krita ---
+.kra~
+.kra.autosave
+.kdb
+
+# --- AI & ComfyUI (CRITICAL) ---
+# Do not upload heavy models or checkpoints
+.safetensors
+.ckpt
+.pt
+.bin
+models
+loras
+
+# --- Generated Assets (Optional) ---
+# You usually don't want to version control every test render
+output
+temp
+tests
+
+# --- VS Code ---
+.vscode
