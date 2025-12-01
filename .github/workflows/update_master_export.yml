@@ -1,0 +1,66 @@
+name: Update Master Story Export
+
+# Trigger: Runs on every push to the main branch
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'bible/**'
+      - 'scripts/**'
+
+# Permissions: We need write access to commit the new file back
+permissions:
+  contents: write
+
+jobs:
+  build-story-export:
+    runs-on: ubuntu-latest
+    
+    steps:
+      # Step 1: Check out your code
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      # Step 2: The Logic - Concatenate all MD files
+      - name: Stitch Story Files
+        run: |
+          # Define the output file
+          OUTPUT_FILE="master_story_export.txt"
+          
+          # clear the file if it exists
+          > $OUTPUT_FILE
+          
+          echo "========================================" >> $OUTPUT_FILE
+          echo "MASTER STORY EXPORT - GENERATED AUTOMATICALLY" >> $OUTPUT_FILE
+          echo "========================================" >> $OUTPUT_FILE
+          echo "" >> $OUTPUT_FILE
+          
+          # 1. Add the Series Bible files first (Context)
+          if [ -d "bible" ]; then
+            for file in bible/*.md; do
+              echo "----------------------------------------" >> $OUTPUT_FILE
+              echo "FILE: $file" >> $OUTPUT_FILE
+              echo "----------------------------------------" >> $OUTPUT_FILE
+              cat "$file" >> $OUTPUT_FILE
+              echo -e "\n\n" >> $OUTPUT_FILE
+            done
+          fi
+
+          # 2. Add the Scripts (Episodes)
+          if [ -d "scripts" ]; then
+            for file in scripts/*.md; do
+              echo "----------------------------------------" >> $OUTPUT_FILE
+              echo "FILE: $file" >> $OUTPUT_FILE
+              echo "----------------------------------------" >> $OUTPUT_FILE
+              cat "$file" >> $OUTPUT_FILE
+              echo -e "\n\n" >> $OUTPUT_FILE
+            done
+          fi
+          
+      # Step 3: Commit and Push (Only if changes exist)
+      - name: Commit and Push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "AUTO: Update master_story_export.txt"
+          file_pattern: master_story_export.txt
