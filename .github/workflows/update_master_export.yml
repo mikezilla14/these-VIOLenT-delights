@@ -1,15 +1,16 @@
 name: Update Master Story Export
 
-# Trigger: Runs on every push to the main branch
+# Trigger: Runs when you push changes to your specific folders
 on:
   push:
     branches:
       - main
     paths:
-      - 'bible/**'
-      - 'scripts/**'
+      - '01_CHARACTERS/**'
+      - '02_World/**'
+      - '03_Arcs/**'
+      - '.github/workflows/update_master_export.yml' # Trigger when you edit this file too
 
-# Permissions: We need write access to commit the new file back
 permissions:
   contents: write
 
@@ -18,27 +19,25 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-      # Step 1: Check out your code
       - name: Checkout Repo
         uses: actions/checkout@v4
 
-      # Step 2: The Logic - Concatenate all MD files
       - name: Stitch Story Files
         run: |
-          # Define the output file
           OUTPUT_FILE="master_story_export.txt"
           
-          # clear the file if it exists
+          # Clear file and add Header
           > $OUTPUT_FILE
-          
           echo "========================================" >> $OUTPUT_FILE
           echo "MASTER STORY EXPORT - GENERATED AUTOMATICALLY" >> $OUTPUT_FILE
           echo "========================================" >> $OUTPUT_FILE
           echo "" >> $OUTPUT_FILE
           
-          # 1. Add the Series Bible files first (Context)
-          if [ -d "bible" ]; then
-            for file in bible/*.md; do
+          # 1. Add Characters
+          if [ -d "01_CHARACTERS" ]; then
+            echo "Processing Characters..."
+            for file in 01_CHARACTERS/*.md; do
+              [ -e "$file" ] || continue
               echo "----------------------------------------" >> $OUTPUT_FILE
               echo "FILE: $file" >> $OUTPUT_FILE
               echo "----------------------------------------" >> $OUTPUT_FILE
@@ -47,9 +46,24 @@ jobs:
             done
           fi
 
-          # 2. Add the Scripts (Episodes)
-          if [ -d "scripts" ]; then
-            for file in scripts/*.md; do
+          # 2. Add World Building
+          if [ -d "02_World" ]; then
+            echo "Processing World..."
+            for file in 02_World/*.md; do
+              [ -e "$file" ] || continue
+              echo "----------------------------------------" >> $OUTPUT_FILE
+              echo "FILE: $file" >> $OUTPUT_FILE
+              echo "----------------------------------------" >> $OUTPUT_FILE
+              cat "$file" >> $OUTPUT_FILE
+              echo -e "\n\n" >> $OUTPUT_FILE
+            done
+          fi
+
+          # 3. Add Story Arcs
+          if [ -d "03_Arcs" ]; then
+            echo "Processing Arcs..."
+            for file in 03_Arcs/*.md; do
+              [ -e "$file" ] || continue
               echo "----------------------------------------" >> $OUTPUT_FILE
               echo "FILE: $file" >> $OUTPUT_FILE
               echo "----------------------------------------" >> $OUTPUT_FILE
@@ -58,9 +72,8 @@ jobs:
             done
           fi
           
-      # Step 3: Commit and Push (Only if changes exist)
       - name: Commit and Push
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "AUTO: Update master_story_export.txt"
+          commit_message: "AUTO: Update master_story_export.txt with new chapters"
           file_pattern: master_story_export.txt
