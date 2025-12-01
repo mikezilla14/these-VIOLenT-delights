@@ -3,6 +3,7 @@
 ## Arc 01: The Proto-Tech (Gritty/Industrial)
 *   **The Cyber-Mastiff:** A Rottweiler with crude hydraulic shears for jaws and exposed wiring. Vulnerable to magnets/frequency jamming.
 *   **The Haptic Dress:** Electric blue smart-fabric that measures biometrics to prove "specimen quality" to remote buyers.
+*   **The Neural Lace:** A crude precursor to the Governor Module, known to cause seizures and glitches.
 *   **The Copper Beeches:** Genetically modified trees with metallic leaves acting as a Faraday cage.
 
 ## Arc 02: The Invisible Suite (Sleek/Glass)

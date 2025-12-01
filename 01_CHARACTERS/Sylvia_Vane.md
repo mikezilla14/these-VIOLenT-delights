@@ -1,5 +1,3 @@
-### **FILE 2: `01_CHARACTERS/Sylvia_Vane.md` (Rewrite)**
-
 # Character Profile: Sylvia Vane (The "Watson")
 
 ## 1. Identity
@@ -19,3 +17,4 @@ Sylvia represents the **Catharsis of Violence**.
 ## 3. The Mystery
 *   **The Disappearance:** Sylvia didn't vanish on a case. She was snatched off the street—randomly—just like the women Violet encounters.
 *   **The Connection:** Violet’s discovery of "Subject Vane" in the Rucastle files is the inciting incident that proves Sylvia wasn't just "lost"—she was *consumed* by the machine Violet has just stumbled into.
+*   **Prompt:** `Sylvia Vane, female, platinum blonde bob, piercing blue eyes, tuxedo jacket, semi-transparent edges, ethereal glow, cinematic rim lighting (blue/purple), chromatic aberration.`
