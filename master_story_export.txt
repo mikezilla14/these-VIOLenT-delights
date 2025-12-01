@@ -13,25 +13,46 @@ The Rucastles are not cartoon villains. They are a family unit warped by the bel
 ## Clara Rucastle (The Mother)
 *   **Role:** The Pragmatist / The Tiger Mother.
 *   **Psychology:** She has seen the cruelty of the world (poverty, the corporate crush). She decided long ago that moral purity is a luxury she cannot afford.
-*   **Motivation:** She loves her children absolutely. She enables Jephro’s "business" not because she enjoys it, but because it buys safety for her bloodline.
+*   **Motivation:** She loves her children absolutely. She enables Jephro’s "business" not because she enjoys it, but because it buys safety for her bloodline. Clara comes from a poor family and had to do everything she could to claw her way out of poverty. Jephro was her salvation from both poverty and the amoral economies of the street. There was a time that she believed in morality. She's seen too much since then. She will not let any of her family suffer like she did. In her mind allowing her children to be what she considers weak is not an option. The will prosper and she more than anyone knows only monsters prosper in this world. Her greatest fear is visiting the sins of her mother on her own children. She loved her mother dearly but that space in her heart has been overgrown with resentment for all the indignities that she lived through instead of the beautiful life her mother promised her.
 *   **The Tragedy:** She would rather her children be monsters than victims.
-*   **Key Scene:** She bandages a wound on Beatrix's hand (caused by Beatrix's own cruelty) with tender, loving care, whispering, "Be more careful next time, my love. Don't leave marks."
+*   **Prompt:** `Clara Rucastle, 50s, fading elegance, sharp eyes, wearing high-collar Victorian blouse, holding a bloody bandage, expression of twisted maternal affection, warm lighting.`
 
 ## Jephro Rucastle (The Father)
-*   **Role:** The Banal Evil.
-*   **Psychology:** Selfish, greedy, and lacking self-awareness. He doesn't see himself as a slaver; he sees himself as a "Headhunter" or "Talent Scout." He compartmentalizes his cruelty as "just business."
-*   **The Flaw:** He assumes money can buy silence. He underestimates the rage of the "commodities" he sells.
+*   **Role:** The Banal Evil / The Scrubber.
+*   **Psychology:** Selfish, greedy, and lacking self-awareness. He doesn't see himself as a slaver; he sees himself as a "Headhunter" or "Talent Scout." He compartmentalizes his cruelty as "just business." He lives to assert his power. He's entire life he has been rich surrounded by staff. He's a luddite, trying to cash in on the tech pirates while they're happy to throw money around. He knows ultimately money isn't power, power is power. He's developed his power, physically, through his network of eager illegal hands and by having no scruples with getting his hands dirty. Unknown to his high tech clients he belongs to a secret society with the aim of reverting technology 50 years. Technology is a crutch that has made men weak in his eyes. In truth the society is more like a 19th century gentlemen's club than an actual movement looking to effect change but it's members include some powerful people and that might yet change in the future.
+*   **Prompt:** `Jephro Rucastle, male, 50s, heavy set, round face, jovial but sinister smile, sweaty skin texture, ill-fitting tweed suit, holding wine glass, warm fireplace lighting, uncanny valley aesthetic.`
 
 ## Beatrix Rucastle (The Legacy)
-*   **Role:** The True Believer.
+*   **Role:** The True Believer / The Nemesis.
 *   **Psychology:** Raised in a house where human beings are inventory, she has no concept of empathy. She is the pure product of her parents' philosophy: A predator with no remorse.
+*   **Prompt:** `Beatrix Rucastle, female, 19, pale skin, heavy dark cyber-goth makeup, neon green hair streaks, sneering expression, black leather and mesh clothing, holding high-tech dog whistle, harsh lighting.`
+
+## Alice Rucastle (The Glitch)
+*   **Role:** The Failed Prototype / "Neural Lace" Test Subject.
+*   **Visuals:** Gaunt, hospital gown, shaved patch on head showing infected port.
+
+
+----------------------------------------
+FILE: 01_CHARACTERS/Arc02_Cast.md
+----------------------------------------
+# Arc 02 Cast: The Cobalt Cradle
+
+## Simon Mercer (The Optimizer)
+*   **Role:** Corporate Transhumanist / CEO of Aethelgard Biotics.
+*   **Archetype:** Business Evil. Cruelty born of calculus, not malice.
+*   **Visuals:** 40s, silver suit, rimless glasses, sterile and cold.
+*   **Prompt:** `Simon Mercer, male, 40s, sleek silver suit, rimless glasses, cold expression, standing in sterile white laboratory, blue clinical lighting, holding tablet, hyper-realistic.`
+
+## Leo Cassian (The Nurturer)
+*   **Role:** Bio-Mechanic / The Sympathetic Ally.
+*   **Dynamic:** The counterpoint to the series' toxic males. He represents durability through softness.
+*   **Visuals:** 30s, messy hair, oil-stained coveralls, warm eyes.
+*   **Prompt:** `Leo Cassian, male, 30s, kind eyes, weary expression, messy dark hair, wearing worn mechanic coveralls, holding a robotic hand gently, warm amber lighting, soft focus background.`
 
 
 ----------------------------------------
 FILE: 01_CHARACTERS/Sylvia_Vane.md
 ----------------------------------------
-### **FILE 2: `01_CHARACTERS/Sylvia_Vane.md` (Rewrite)**
-
 # Character Profile: Sylvia Vane (The "Watson")
 
 ## 1. Identity
@@ -51,6 +72,7 @@ Sylvia represents the **Catharsis of Violence**.
 ## 3. The Mystery
 *   **The Disappearance:** Sylvia didn't vanish on a case. She was snatched off the street—randomly—just like the women Violet encounters.
 *   **The Connection:** Violet’s discovery of "Subject Vane" in the Rucastle files is the inciting incident that proves Sylvia wasn't just "lost"—she was *consumed* by the machine Violet has just stumbled into.
+*   **Prompt:** `Sylvia Vane, female, platinum blonde bob, piercing blue eyes, tuxedo jacket, semi-transparent edges, ethereal glow, cinematic rim lighting (blue/purple), chromatic aberration.`
 
 
 ----------------------------------------
@@ -71,12 +93,12 @@ FILE: 01_CHARACTERS/Violet_Chase.md
 Violet is not a trained operative. She is a woman with a **trauma response that looks like superpowers.**
 *   **The Broken Logic:** When the world feels chaotic or threatening, Violet dissociates. She stops feeling fear and starts seeing **Patterns**.
 *   **The "Deduction" Mechanic:** It is not a cool gadget; it is a panic response. She counts heartbeats, calculates angles, and reads micro-expressions because if she can *quantify* the danger, she thinks she can control it.
-*   **The flaw:** Logic provides clarity, not comfort. She can deduce *how* a woman died, but she cannot process *why*.
+*   **The Flaw:** Logic provides clarity, not comfort. She can deduce *how* a woman died, but she cannot process *why*.
 
 ## 3. The Visuals
 *   **The "Civilian" Look:** She wears thrifted clothes, trench coats to hide her frame, and messy hair. She looks like someone trying to disappear, not someone trying to stand out.
 *   **The Glitch:** When she is stressed, her POV (the panel art) becomes overlaid with obsessive data streams.
-
+*   **Prompt:** `Violet Chase, female, 28 years old, chestnut hair, messy bun hairstyle, hazel eyes, heavy freckles on nose and cheeks, intelligent expression, sharp focus, natural skin texture, wearing fitted beige trench coat over navy turtleneck, noir lighting.`
 
 
 ----------------------------------------
@@ -87,6 +109,7 @@ FILE: 02_World/Tech_And_Gadgets.md
 ## Arc 01: The Proto-Tech (Gritty/Industrial)
 *   **The Cyber-Mastiff:** A Rottweiler with crude hydraulic shears for jaws and exposed wiring. Vulnerable to magnets/frequency jamming.
 *   **The Haptic Dress:** Electric blue smart-fabric that measures biometrics to prove "specimen quality" to remote buyers.
+*   **The Neural Lace:** A crude precursor to the Governor Module, known to cause seizures and glitches.
 *   **The Copper Beeches:** Genetically modified trees with metallic leaves acting as a Faraday cage.
 
 ## Arc 02: The Invisible Suite (Sleek/Glass)
@@ -105,52 +128,28 @@ FILE: 02_World/The_OSAR.md
 # Setting: The Oakhaven Special Administrative Region (O.S.A.R.)
 
 ## 1. Concept: The "Eden" Paradox
-The O.S.A.R. is a sovereign "Preservation Zone" tailored for the ultra-wealthy. While the rest of the world is a continuous cyberpunk sprawl, Oakhaven is terraformed to look like a 19th-century pastoral painting.
-*   **The Lie:** It looks like nature.
-*   **The Truth:** It is the most surveilled and technologically dense region on Earth. The trees are antennas; the rain is pH-balanced; the isolation is manufactured.
+A sovereign "Preservation Zone" tailored for the ultra-wealthy.
+*   **The Lie:** It looks like 19th-century nature.
+*   **The Truth:** It is the most surveilled and technologically dense region on Earth.
 
 ## 2. Sector Geography
 
 ### **SECTOR 1: THE SPRAWL (The Border)**
-*   **Role:** The Service Entrance / The Air-Lock.
-*   **Description:** The hyper-urban cyberpunk city that borders the O.S.A.R. This is where the workers, the desperate, and people like Violet live. It is neon, dirty, loud, and vertical.
-*   **Key Locations:**
-    *   *The Midnight Diner:* Violet's office of necessity.
-    *   *Violet's Apartment:* A cramped conapt in a stack-slum.
-*   **Visual Hook:** Pink/Cyan neon reflecting on wet asphalt, overcrowding, holographic debt collectors.
+*   **Role:** The Service Entrance. Where Violet lives.
+*   **Visual Hook:** Pink/Cyan neon reflecting on wet asphalt, holographic debt collectors.
 
 ### **SECTOR 4: THE GREEN ZONE (The Preserve)**
-*   **Role:** The Residential District for "Old Money."
-*   **Description:** A dense, dark forest region. Architecture is strictly regulated to Tudor, Gothic Revival, or Brutalist styles. No visible tech is allowed on building exteriors.
-*   **Key Locations:**
-    *   *The Copper Beeches:* Jephro Rucastle's estate.
-*   **The "Copper Beech" Phenomenon:** The trees in this sector are genetically modified with high metal content in the foliage. They act as a natural **Faraday Cage**, blocking all unauthorized signals (Cellular/Data) to ensure total privacy (and imprison victims).
-*   **Visual Hook:** Metallic bronze leaves, deep shadows, fog, tungsten (warm) lighting, oppressive silence.
+*   **Role:** Old Money District. Location of *The Copper Beeches*.
+*   **The "Copper Beech" Phenomenon:** Genetically modified trees with metallic foliage act as a natural **Faraday Cage** to block signals.
+*   **Visual Hook:** Metallic bronze leaves, deep shadows, fog, tungsten lighting.
 
 ### **SECTOR 9: MARINA BAY (The Coast)**
-*   **Role:** The Playground / The Laboratory.
-*   **Description:** The coastal edge of the region, extending into international waters. A mix of high-end yacht clubs and industrial research rigs.
-*   **Key Locations:**
-    *   *The Aethelgard Platform:* A converted oil rig used for "Medical Tourism."
-*   **Visual Hook:** Bioluminescent teal water, sterile white chrome, glass walkways, heavy rain, isolation.
+*   **Role:** The Playground / Laboratory. Location of *The Aethelgard Platform*.
+*   **Visual Hook:** Bioluminescent teal water, sterile white chrome, heavy rain.
 
-## 3. Technology & Law
-
-### The Bio-Integrity Acts
-Laws that strictly prohibit "visible" cybernetics within O.S.A.R. limits to maintain the "Natural Aesthetic."
-*   **Loophole:** The rich use "Invisible Tech" (Neural Laces, Genetic Tweaks).
-*   **The Crime:** The Underworld traffics in "Wetware"—human test subjects used to beta-test these invisible augmentations before they are sold to the elite.
-
-### The "Ghost" Signal
-Because Sector 4 blocks standard signals, the Trafficking Network uses a dedicated hardline frequency known as "The Root System"—cables buried deep beneath the trees, often running into the basements of the manors.
-
-## 4. Global Environmental Prompts
-
-### Sector 1 (The City)
-> `Cyberpunk slum street, towering skyscrapers blocking the sky, neon signs (pink/cyan) reflecting in puddles, heavy rain, crowded with faceless people, hologram ads, trash piled in alleys, cinematic depth of field, high contrast.`
-
-### Sector 4 (The Forest)
-> `Neo-pastoral noir atmosphere, dense forest of trees with metallic copper leaves, winding asphalt road, overcast sky, fog, vintage luxury car, sense of isolation, gothic horror vibe, low light, warm tungsten windows in distance.`
+## 3. The Economic Engine (R&D)
+*   **The Demand:** The Corporate Elite want illegal augments.
+*   **The Supply:** The Underworld (Rucastles) uses "Disposables" (Runaways) as "Wetware Chassis" to beta-test these augments.
 
 
 ----------------------------------------
@@ -166,7 +165,21 @@ FILE: 03_Arcs/Arc01_Copper_simulacrum.md
 *   **The Discovery:** Violet finds the "Wetware" lab not because she was snooping for evidence, but because she was trying to find a way out/escape the creepy Rucastles.
 *   **The Link:** Amidst the horror of the lab, she finds a manifest or a data drive labeled **"Protocol: VANE."**
 *   **The Shift:** This is the moment the genre shifts. It stops being a "Bad Job" story and becomes a "Personal Crusade." Violet realizes her missing friend is the *template* for this horror.
+# Arc 01: The Copper Simulacrum
 
+## Synopsis
+Destitute and desperate, Violet Chase accepts a high-paying job as an "Aesthetic Surrogate" at a secluded estate. She discovers the house is a "Clean Room" for scrubbing identities and testing illegal "Neural Lace" augmentations on human subjects.
+
+## Key Plot Beats
+1.  **The Desperation:** Violet accepts the Rucastle job to pay rent, ignoring the red flags (The Haircut, The Dress).
+2.  **The Trap:** Violet realizes the glass room scans her biometrics for remote buyers. She is bait.
+3.  **The Discovery:** She stumbles upon the "Wetware" lab. She finds **Protocol: VANE**, linking her missing friend to this horror.
+4.  **The Climax:** Violet hacks the Cyber-Mastiff's IFF. Sylvia (The Hallucination) urges her to let the dog kill Jephro. Violet watches it happen.
+5.  **The Aftermath:** Violet saves Alice (The Victim) but loses her innocence. She is now hunting Vane Enterprises.
+
+## Asset Prompts
+*   **Location:** `Wide angle shot of menacing estate, Tudor architecture mixed with Brutalist concrete, copper-colored metallic trees, heavy rain, ominous atmosphere.`
+*   **The Mastiff:** `Large robotic mastiff, black carbon-fiber plating, exposed hydraulic muscles, glowing red sensors, drooling oil, rain dripping off metal.`
 ## 3. The Climax (Logic vs. Wrath)
 *   **The Action:** Violet uses her **Logic** to hack the Cyber-Mastiff.
 *   **The Emotion:** She uses **Sylvia's Wrath** to let the dog kill Jephro. She doesn't look away. This is her "Baptism" into the violent world.
@@ -190,209 +203,5 @@ Violet infiltrates the *Aethelgard* Platform, a luxury rig in international wate
 ## Asset Prompts
 *   **Location:** `Futuristic oil rig converted into luxury lab, middle of ocean, night, storm waves, glowing teal underwater lights, sleek white helipad.`
 *   **The Pile:** `Group of cyborg test subjects huddled together on floor, wearing white hospital gowns, visible chrome ports on necks, shivering, tangled limbs, tragic composition.`
-
-
-----------------------------------------
-FILE: 03_Arcs/Issue_01_Storyboard.md
-----------------------------------------
-# WEBTOON SCRIPT: ISSUE 01 - "THE OFFER"
-
-**Series:** ViolENt Delights
-**Arc:** 01 (The Copper Simulacrum)
-**Format:** Vertical Scroll
-**Visual Tone:** *Blade Runner* meets *Crimson Peak*. High contrast Neon vs. Deep Organic Shadows.
-
----
-
-## SEQUENCE 1: THE HUNGER (Panels 1-6)
-**Setting:** *The Midnight Diner (Sector 4 Border).*
-**Atmosphere:** A sensory overload of cheap grease, rain, and failing neon.
-
-**Panel 1 (Establishing - Vertical Scroll Start)**
-*   **Visual:** Extreme Close-up on a window pane. Heavy, oily rain streaks down the glass. Through the distortion, we see the blurred, flickering neon sign of the diner (Pink/Cyan).
-*   **SFX:** *Tapping of rain. Hiss of steam.*
-*   **Narration Box (Violet):** "Hunger is a data point. It sharpens the senses."
-
-**Panel 2 (Transition)**
-*   **Visual:** The camera pulls back through the glass. We see Violet’s reflection, but it's faint, ghostly.
-*   **Narration Box:** "Desperation is noise. It drowns out the logic."
-
-**Panel 3 (Character Intro)**
-*   **Visual:** Medium Shot. **Violet Chase** sitting in a worn red leather booth. She looks exhausted. Her trench coat is damp. Her hair is in a messy, practical bun. She is staring at a cold cup of black coffee.
-*   **Detail:** On the table, her hand rests near a translucent credit chip. The holographic display reads: **ERROR: INSUFFICIENT FUNDS [Balance: ₡4.32]**.
-*   **Artist Note:** Emphasize the texture of her skin—freckles, shadows under eyes. She feels *real* in a plastic world.
-
-**Panel 4 (The Hallucination)**
-*   **Visual:** Violet sighs, closing her eyes.
-*   **Visual:** When she opens them (Next beat), the empty seat opposite her is occupied.
-*   **Character:** **SYLVIA VANE**. She is high-definition but slightly translucent at the edges. She wears a pristine tuxedo jacket and is smoking a cigarette. The smoke glows **electric blue** and defies physics, drifting *down* instead of up.
-*   **Sylvia:** "You look like hell, Vi. And not the fun kind."
-
-**Panel 5 (Dialogue)**
-*   **Visual:** Violet takes a sip of the cold coffee. She doesn't look at Sylvia.
-*   **Violet (Internal):** *I need a job. I need a ghost to shut up. I need a refill.*
-*   **Sylvia:** "You need a miracle. Or a felony. I’m good with either."
-
-**Panel 6 (The Waitress)**
-*   **Visual:** A waitress walks past the booth. She looks tired, wearing a uniform with a cheap LED nametag that flickers.
-*   **Violet's Eye:** We zoom into Violet's pupil. It contracts.
-
----
-
-## SEQUENCE 2: THE DEDUCTION (Panels 7-11)
-**Setting:** *The Diner.*
-**Visual Gimmick:** **The Deduction Overlay**. The world turns Greyscale/Wireframe. Key details glow **Amber**.
-
-**Panel 7 (POV - The Scan)**
-*   **Visual:** POV Shot of the waitress.
-*   **Overlay Graphics:**
-    *   **Focus on Wrist:** *Text: [LIGATURE MARKS]* -> *Deduction: Debt Collector Grip.*
-    *   **Focus on Pocket:** *Text: [BULGING OUTLINE]* -> *Deduction: Undeclared Cash Tips.*
-    *   **Focus on Eyes:** *Text: [PUPIL DILATION 20%]* -> *Deduction: Low-grade Stimulants.*
-*   **Narration Box:** "She's skimming tips to pay off a loan shark. She's high to keep the shift going."
-
-**Panel 8 (Snap Back)**
-*   **Visual:** Violet rubs her temples. The color slams back into the world (Jarring transition).
-*   **Violet (Internal):** *Stop looking. You aren't getting paid to look.*
-
-**Panel 9 (The Intruder)**
-*   **Visual:** A heavy, meat-like hand slams a thick, cream-colored business card onto the table next to the coffee.
-*   **SFX:** *THUD.*
-*   **Card Text:** **THE COPPER BEECHES - PRIVATE CURATION.**
-
-**Panel 10 (The Villain)**
-*   **Visual:** Low angle looking up. **JEPHRO RUCASTLE**. He is large, imposing, and sweating. He wears a tweed suit that is too warm for the environment. He is smiling, but it doesn't reach his eyes.
-*   **Artist Note:** Contrast his "Analog/Retro" suit with the neon diner. He looks like he stepped out of 1950, but smells like ozone.
-*   **Rucastle:** "Miss Chase? My sources tell me you locate lost things."
-
-**Panel 11 (The Hook)**
-*   **Visual:** Rucastle slides into the booth (Sylvia vanishes/glitches out of the way).
-*   **Rucastle:** "I'm hoping you can locate your sense of adventure."
-
----
-
-## SEQUENCE 3: THE PROPOSAL (Panels 12-18)
-**Theme:** The Commodification.
-
-**Panel 12 (The Pie)**
-*   **Visual:** Rucastle is eating a synth-cherry pie. It’s messy. Red gel stains his lip.
-*   **Rucastle:** "It's not security. It's... aesthetic curation. A live-in role."
-
-**Panel 13 (Reaction)**
-*   **Visual:** Violet looks skeptical, arms crossed.
-*   **Violet:** "I don't do modeling, Mr. Rucastle. I find assets."
-*   **Rucastle:** "Not modeling. **Performance.** I need you to sit in a room. Wear a dress. Read a book."
-
-**Panel 14 (The Catch)**
-*   **Visual:** Rucastle points a fork at her (menacingly casual).
-*   **Rucastle:** "And cut your hair. Short. To the nape."
-
-**Panel 15 (The Motivation)**
-*   **Visual:** Close up on Rucastle’s sweaty face.
-*   **Rucastle:** "My daughter... she misses her mother. You have her mother's build. Her bone structure. I pay **triple** your usual rate for the... theatrical inconvenience."
-
-**Panel 16 (The Ghost's Vetting)**
-*   **Visual:** Sylvia reappears, leaning over Rucastle’s shoulder like a predator. She is inspecting his neck.
-*   **Sylvia:** "He's lying, Vi. His pulse is jumping visible in the jugular."
-*   **Visual Detail:** Sylvia points to his wrist.
-*   **Sylvia:** "But look at the watch. Patek Philippe. Real analog gold. That's six months' rent."
-
-**Panel 17 (The Choice)**
-*   **Visual:** Violet looks at the "Insufficient Funds" on her chip. Then at Rucastle.
-*   **Sylvia (Whisper):** "Take the money. We've done worse for less."
-
-**Panel 18 (Acceptance)**
-*   **Visual:** Violet picks up the card.
-*   **Violet:** "When do I start?"
-
----
-
-## SEQUENCE 4: THE TRANSITION (Panels 19-22)
-**Setting:** *Travel from Sector 1 (City) to Sector 4 (Forest).*
-
-**Panel 19 (The Drive)**
-*   **Visual:** Wide shot. Rucastle’s vintage luxury car driving away from the glowing city skyline. The road gets darker, the lights fewer.
-
-**Panel 20 (The Trees)**
-*   **Visual:** The car passes a gate. The headlights illuminate the **Copper Beeches**.
-*   **Visual Detail:** The leaves aren't just purple; they are **metallic**. They reflect the light like polished bronze coins. The trunks look twisted and industrial.
-*   **Narration Box:** "Sector 4. The Green Zone. Where the rich go to pretend the future didn't happen."
-
-**Panel 21 (The Tech Drop)**
-*   **Visual:** Violet checks her phone.
-*   **UI Graphic:** Signal Bars dropping: 4... 2... 1... **NO SIGNAL**.
-*   **Narration Box:** "Gen-Mod Copper Beeches. High metal content in the leaves. A natural Faraday cage."
-
-**Panel 22 (The Foreshadowing)**
-*   **Visual:** Violet looks up at the looming Manor House. In a high attic window, a small, gaunt silhouette (Alice) stands motionless.
-*   **Violet:** "Who lives here besides you and your daughter?"
-*   **Rucastle:** "Just us. And the dogs."
-
----
-
-## SEQUENCE 5: THE MAKEOVER (Panels 23-32)
-**Setting:** *The Manor Bathroom.*
-**Atmosphere:** Clinical, violating, cold.
-
-**Panel 23 (The Daughter)**
-*   **Visual:** **BEATRIX RUCASTLE** (19). Heavy "Cyber-Goth" makeup, neon green streaks in black hair. She is chewing gum, looking bored. She holds heavy iron shears.
-*   **Beatrix:** "This is the stray? She looks cheap."
-
-**Panel 24 (The Command)**
-*   **Visual:** Rucastle stands in the doorway. He holds a dress on a hanger—**Electric Blue Satin**. It glows faintly (Haptic Mesh).
-*   **Rucastle:** "She is perfect. Beatrix, prepare the canvas."
-
-**Panel 25 (The Chair)**
-*   **Visual:** Violet sits on a stool in the center of the tiled room. Beatrix stands behind her. The reflection in the mirror shows Violet looking terrified.
-*   **Beatrix:** "Don't move. Unless you want to lose an ear."
-
-**Panel 26 (The Snip)**
-*   **Visual:** Close up. The shears cut through the chestnut hair.
-*   **SFX:** *SHHHK-CLIP.*
-*   **Visual:** A long lock of hair falls past the "camera" (utilizing the vertical scroll speed lines).
-
-**Panel 27 (The Commentary)**
-*   **Visual:** Sylvia is sitting on the sink counter, swinging her legs. She watches the haircut.
-*   **Sylvia:** "It exposes the neck, Vi. Makes it easier for the wolves to find the vein."
-
-**Panel 28 (The Shave)**
-*   **Visual:** Beatrix uses an electric razor on the back of Violet's neck.
-*   **SFX:** *BZZZZZT.*
-*   **Beatrix's POV:** We see Beatrix staring intently at Violet's exposed skin. She isn't looking at the hair; she is looking for a **Port Socket**.
-*   **Beatrix:** "Clean skin. No ports. How quaint."
-
-**Panel 29 (The Dress)**
-*   **Visual:** Violet steps into the blue dress. It’s tight.
-*   **Visual Detail:** As the fabric touches her skin, faint hexagonal honeycomb patterns light up on the fabric for a split second, then fade.
-*   **Violet (Internal):** *It's warm. Like it's reading my pulse.*
-
-**Panel 30 (The Reveal - Splash Panel)**
-*   **Visual:** Full body shot of Violet. Hair cropped short in a sharp bob. Wearing the electric blue dress. She looks vulnerable, exposed, and strikingly beautiful in a haunted way.
-*   **Mirror Reflection:** In the mirror behind her, **Sylvia** stands in her tuxedo, looking sad.
-*   **Rucastle (Off Panel):** "Magnificent."
-
-**Panel 31 (The Title)**
-*   **Visual:** Close up on Violet's face. A tear/sweat drop rolls down past her freckles.
-*   **Narration Box:** "These violent delights..."
-
-**Panel 32 (Black Screen)**
-*   **Text:** "...have violent ends."
-*   **Graphic:** **ViolENt Delights** Logo (The 'N' flickers rapidly like a broken neon tube).
-
----
-
-## ARTIST / PRODUCTION NOTES for AI GEN
-
-1.  **Lighting Strategy:**
-    *   **Diner Scenes:** High contrast Cyan/Magenta neon against deep blacks.
-    *   **Manor Scenes:** Warm, suffocating Tungsten (Orange/Brown) for the wood, clashing with the harsh Clinical White of the bathroom.
-    *   **The Dress:** The Blue Dress must pop. It should be the most saturated object in the scene, signaling "Anomaly."
-
-2.  **Texture Priority:**
-    *   **Violet:** Skin pores, freckles, stray hairs (Organic).
-    *   **The World:** Chrome, plastic, polished wood, wet glass (Synthetic).
-
-3.  **Sylvia's Ghost Effect:**
-    *   Do not make her a "sheet ghost." She looks real, but her lighting is *wrong*. If the room is dark, she is lit by a spotlight. If the room is yellow, she is tinted blue. She has a subtle "Chromatic Aberration" (RGB split) on her edges.
 
 
