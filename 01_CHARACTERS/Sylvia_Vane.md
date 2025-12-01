@@ -1,15 +1,21 @@
+### **FILE 2: `01_CHARACTERS/Sylvia_Vane.md` (Rewrite)**
+
 # Character Profile: Sylvia Vane (The "Watson")
 
-## Identity
-*   **Role:** The Ghost / The Hallucination / The Missing Partner.
-*   **Status:** MIA (Presumed Dead/Captured).
-*   **Dynamic:** The Devil on Violet's shoulder. Urges recklessness and violence.
+## 1. Identity
+*   **Role:** The Catalyst / The Avatar of Wrath.
+*   **Status:** MIA (Presumed "Subject Zero").
+*   **Archetype:** **The Manic Pixie Sword of Vengeance.**
+*   **Relation to Corporate:** **None.** She is not an heiress or an insider. She was a **Commodity**.
 
-## Visuals
-*   **Contrast:** Sharp angles, platinum blonde bob, impeccable style.
-*   **The "Ghost" FX:** Desaturated, soft-focus bloom, cigarette smoke texture. often backlit or rim-lit with colors that don't match the scene.
+## 2. The Narrative Function
+Sylvia represents the **Catharsis of Violence**.
+*   **The Dynamic:** Violet wants to solve the puzzle safely. Sylvia wants to burn the puzzle to the ground.
+*   **The Voice:** Sylvia is the voice of every woman used, trafficked, and discarded by the system. She is the collective rage of the marginalized.
+*   **The Interaction:**
+    *   *Violet:* "If we trigger the alarm, the guards will come."
+    *   *Sylvia:* "Good. Let them come. I want to see them bleed."
 
-## Image Gen Prompts
-
-### The Hallucination
-> `Sylvia Vane, female, 29 years old, sharp bob haircut (platinum blonde), piercing blue eyes, red lipstick, dangerous beauty, seductive smirk, wearing tuxedo jacket and sheer tights, smoking a long cigarette, ethereal glow, desaturated skin tones, semi-transparent edges, cinematic rim lighting (blue/purple), chromatic aberration, distinct from environment, moody noir atmosphere, Daz3D render.`
+## 3. The Mystery
+*   **The Disappearance:** Sylvia didn't vanish on a case. She was snatched off the street—randomly—just like the women Violet encounters.
+*   **The Connection:** Violet’s discovery of "Subject Vane" in the Rucastle files is the inciting incident that proves Sylvia wasn't just "lost"—she was *consumed* by the machine Violet has just stumbled into.
