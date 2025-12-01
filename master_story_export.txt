@@ -5,47 +5,52 @@ MASTER STORY EXPORT - GENERATED AUTOMATICALLY
 ----------------------------------------
 FILE: 01_CHARACTERS/Arc01_Cast.md
 ----------------------------------------
-# Arc 01 Cast: The Copper Beeches
+# Arc 01 Cast: The Rucastle Family
 
-## Jephro Rucastle (The Villain)
-*   **Role:** Trafficker / Groomer.
-*   **Fate:** Deceased (Mauled by Cyber-Mastiff).
-*   **Visuals:** Rotund, sweaty, expensive suit, manic smile.
+## The Family Dynamic: "Predator or Prey"
+The Rucastles are not cartoon villains. They are a family unit warped by the belief that the world is a slaughterhouse, and they refuse to be the cattle.
 
-## Clara Rucastle (The Wife)
-*   **Role:** Sympathetic Co-Conspirator.
-*   **Visuals:** 50s, fading elegance, high collars (hiding bruises), nervous.
-*   **Prompt:** `Clara Rucastle, female, 50s, elegant but weary, grey streaks in hair updo, high-collar Victorian blouse, pearl necklace, nervous expression, standing in shadows, soft lighting, sadness, Daz3D.`
+## Clara Rucastle (The Mother)
+*   **Role:** The Pragmatist / The Tiger Mother.
+*   **Psychology:** She has seen the cruelty of the world (poverty, the corporate crush). She decided long ago that moral purity is a luxury she cannot afford.
+*   **Motivation:** She loves her children absolutely. She enables Jephro’s "business" not because she enjoys it, but because it buys safety for her bloodline.
+*   **The Tragedy:** She would rather her children be monsters than victims.
+*   **Key Scene:** She bandages a wound on Beatrix's hand (caused by Beatrix's own cruelty) with tender, loving care, whispering, "Be more careful next time, my love. Don't leave marks."
 
-## Beatrix Rucastle (The Nemesis)
-*   **Role:** The Sadistic Heir / Recurring Antagonist.
-*   **Status:** Fugitive.
-*   **Visuals:** 19, cyber-goth makeup, arrogant. Later: Scarred, leather-clad.
-*   **Prompt (Epilogue):** `Beatrix Rucastle, wearing a black funeral veil and leather trench coat, standing on a rainy train platform, holding a glowing data drive, scarred cheek, expression of cold hatred, neon city lights in background, cyber-goth evolution, femme fatale vibe, sharp focus, 4k.`
+## Jephro Rucastle (The Father)
+*   **Role:** The Banal Evil.
+*   **Psychology:** Selfish, greedy, and lacking self-awareness. He doesn't see himself as a slaver; he sees himself as a "Headhunter" or "Talent Scout." He compartmentalizes his cruelty as "just business."
+*   **The Flaw:** He assumes money can buy silence. He underestimates the rage of the "commodities" he sells.
 
-## Alice Rucastle (The Victim)
-*   **Role:** The Prisoner / Violet's Mirror.
-*   **Visuals:** Gaunt, terrified, short chestnut hair (forced haircut).
+## Beatrix Rucastle (The Legacy)
+*   **Role:** The True Believer.
+*   **Psychology:** Raised in a house where human beings are inventory, she has no concept of empathy. She is the pure product of her parents' philosophy: A predator with no remorse.
 
 
 ----------------------------------------
 FILE: 01_CHARACTERS/Sylvia_Vane.md
 ----------------------------------------
+### **FILE 2: `01_CHARACTERS/Sylvia_Vane.md` (Rewrite)**
+
 # Character Profile: Sylvia Vane (The "Watson")
 
-## Identity
-*   **Role:** The Ghost / The Hallucination / The Missing Partner.
-*   **Status:** MIA (Presumed Dead/Captured).
-*   **Dynamic:** The Devil on Violet's shoulder. Urges recklessness and violence.
+## 1. Identity
+*   **Role:** The Catalyst / The Avatar of Wrath.
+*   **Status:** MIA (Presumed "Subject Zero").
+*   **Archetype:** **The Manic Pixie Sword of Vengeance.**
+*   **Relation to Corporate:** **None.** She is not an heiress or an insider. She was a **Commodity**.
 
-## Visuals
-*   **Contrast:** Sharp angles, platinum blonde bob, impeccable style.
-*   **The "Ghost" FX:** Desaturated, soft-focus bloom, cigarette smoke texture. often backlit or rim-lit with colors that don't match the scene.
+## 2. The Narrative Function
+Sylvia represents the **Catharsis of Violence**.
+*   **The Dynamic:** Violet wants to solve the puzzle safely. Sylvia wants to burn the puzzle to the ground.
+*   **The Voice:** Sylvia is the voice of every woman used, trafficked, and discarded by the system. She is the collective rage of the marginalized.
+*   **The Interaction:**
+    *   *Violet:* "If we trigger the alarm, the guards will come."
+    *   *Sylvia:* "Good. Let them come. I want to see them bleed."
 
-## Image Gen Prompts
-
-### The Hallucination
-> `Sylvia Vane, female, 29 years old, sharp bob haircut (platinum blonde), piercing blue eyes, red lipstick, dangerous beauty, seductive smirk, wearing tuxedo jacket and sheer tights, smoking a long cigarette, ethereal glow, desaturated skin tones, semi-transparent edges, cinematic rim lighting (blue/purple), chromatic aberration, distinct from environment, moody noir atmosphere, Daz3D render.`
+## 3. The Mystery
+*   **The Disappearance:** Sylvia didn't vanish on a case. She was snatched off the street—randomly—just like the women Violet encounters.
+*   **The Connection:** Violet’s discovery of "Subject Vane" in the Rucastle files is the inciting incident that proves Sylvia wasn't just "lost"—she was *consumed* by the machine Violet has just stumbled into.
 
 
 ----------------------------------------
@@ -53,27 +58,25 @@ FILE: 01_CHARACTERS/Violet_Chase.md
 ----------------------------------------
 # Character Profile: Violet Chase
 
-## Identity
-*   **Role:** The Protagonist / The Broken Logician.
+## 1. Identity
+*   **Role:** The Protagonist / The Accidental Detective.
 *   **Age:** 28
-*   **Occupation:** Unlicensed Private Investigator / Asset Recovery.
-*   **Traits:** Hyper-observant, morally flexible, financially desperate, detached.
+*   **Occupation:** **Unemployed / Gig Worker.** (FORMERLY: Asset Recovery).
+*   **Economic Status:** Destitute. The series begins with her hitting rock bottom.
+*   **The Motivation:**
+    1.  **Initial:** Survival. She takes the Rucastle job because she is starving, not because she is hunting.
+    2.  **Evolved:** Justice/Vengeance. The horror she survives at Copper Beeches radicalizes her.
 
-## Visual Personas (Arc Specific)
+## 2. Psychology: The Intellectualization Defense
+Violet is not a trained operative. She is a woman with a **trauma response that looks like superpowers.**
+*   **The Broken Logic:** When the world feels chaotic or threatening, Violet dissociates. She stops feeling fear and starts seeing **Patterns**.
+*   **The "Deduction" Mechanic:** It is not a cool gadget; it is a panic response. She counts heartbeats, calculates angles, and reads micro-expressions because if she can *quantify* the danger, she thinks she can control it.
+*   **The flaw:** Logic provides clarity, not comfort. She can deduce *how* a woman died, but she cannot process *why*.
 
-### 1. Default / Arc 01 (The "Doll")
-*   **Look:** Chestnut brown messy bun, heavy freckles (natural texture), beige trench coat. Later: Short bob, Electric Blue Haptic Dress.
-*   **Prompt:** `Violet Chase, female, 28 years old, chestnut hair, messy bun hairstyle, hazel eyes, heavy freckles on nose and cheeks, intelligent expression, sharp focus, natural skin texture, wearing fitted beige trench coat over navy turtleneck, noir lighting.`
+## 3. The Visuals
+*   **The "Civilian" Look:** She wears thrifted clothes, trench coats to hide her frame, and messy hair. She looks like someone trying to disappear, not someone trying to stand out.
+*   **The Glitch:** When she is stressed, her POV (the panel art) becomes overlaid with obsessive data streams.
 
-### 2. Arc 02 (The "Concierge")
-*   **Look:** Severe architectural chignon, heavy foundation (hiding freckles), white minimalist suit, transparent AR Halo eyepiece.
-*   **Prompt:** `Violet Chase, female, slicked back chestnut hair, tight chignon, severe expression, heavy foundation, sharp winged eyeliner, wearing white asymmetrical structured dress suit, transparent data-monocle over left eye, sterile glass corridor background.`
-
-## The "Watson" Connection: Sylvia Vane
-*   **Role:** Hallucination / Missing Partner.
-*   **Arc 1 Variance:** Reckless, violent, smoking.
-*   **Arc 2 Variance:** Drowning imagery, underwater hair physics, cynical.
-*   **Prompt:** `Sylvia Vane, female, platinum blonde bob, piercing blue eyes, tuxedo jacket, semi-transparent edges, ethereal glow, cinematic rim lighting (blue/purple), chromatic aberration.`
 
 
 ----------------------------------------
@@ -153,21 +156,20 @@ Because Sector 4 blocks standard signals, the Trafficking Network uses a dedicat
 ----------------------------------------
 FILE: 03_Arcs/Arc01_Copper_simulacrum.md
 ----------------------------------------
-# Arc 01: The Copper Simulacrum
+# Arc 01: The Copper Simulacrum (Revised)
 
-## Synopsis
-Violet accepts a job as a "Live-in Aesthetic Surrogate" at a secluded estate. She discovers the house is a "Clean Room" for scrubbing identities and testing illegal "Neural Lace" augmentations on human subjects.
+## 1. The Setup (The Desperation)
+*   **The Status Quo:** Violet is broke. She isn't looking for a mystery; she is looking for rent money.
+*   **The Hook:** The Rucastle job offers too much money for too little work. Violet takes it *despite* the red flags because she has no choice. This emphasizes the economic coercion of the trafficking world.
 
-## Key Plot Beats
-1.  **The Hook:** Violet cuts her hair to expose her neck (Port-Ready aesthetic) and wears the Haptic Dress.
-2.  **The Tech:** Violet realizes the glass room scans her biometrics for remote buyers.
-3.  **The Discovery:** She finds Alice, who isn't insane, but suffering from a hardware rejection (The Glitch).
-4.  **The Climax:** Violet hacks the Cyber-Mastiff's IFF (Identification Friend or Foe), causing it to maul Jephro.
-5.  **The Lead:** Data points to "Subject Vane" being moved to **Marina Bay**.
+## 2. The Turning Point (The Realization)
+*   **The Discovery:** Violet finds the "Wetware" lab not because she was snooping for evidence, but because she was trying to find a way out/escape the creepy Rucastles.
+*   **The Link:** Amidst the horror of the lab, she finds a manifest or a data drive labeled **"Protocol: VANE."**
+*   **The Shift:** This is the moment the genre shifts. It stops being a "Bad Job" story and becomes a "Personal Crusade." Violet realizes her missing friend is the *template* for this horror.
 
-## Asset Prompts
-*   **Location:** `Wide angle shot of menacing estate, Tudor architecture mixed with Brutalist concrete, copper-colored metallic trees, heavy rain, ominous atmosphere.`
-*   **The Mastiff:** `Large robotic mastiff, black carbon-fiber plating, exposed hydraulic muscles, glowing red sensors, drooling oil, rain dripping off metal.`
+## 3. The Climax (Logic vs. Wrath)
+*   **The Action:** Violet uses her **Logic** to hack the Cyber-Mastiff.
+*   **The Emotion:** She uses **Sylvia's Wrath** to let the dog kill Jephro. She doesn't look away. This is her "Baptism" into the violent world.
 
 
 ----------------------------------------
