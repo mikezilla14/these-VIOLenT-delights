@@ -60,24 +60,47 @@ FILE: 01_CHARACTERS/Sylvia_Vane.md
 ----------------------------------------
 # Character Profile: Sylvia Vane (The "Watson")
 
-## 1. Identity
-*   **Role:** The Catalyst / The Avatar of Wrath.
-*   **Status:** MIA (Presumed "Subject Zero").
-*   **Archetype:** **The Manic Pixie Sword of Vengeance.**
-*   **Relation to Corporate:** **None.** She is not an heiress or an insider. She was a **Commodity**.
 
-## 2. The Narrative Function
-Sylvia represents the **Catharsis of Violence**.
-*   **The Dynamic:** Violet wants to solve the puzzle safely. Sylvia wants to burn the puzzle to the ground.
-*   **The Voice:** Sylvia is the voice of every woman used, trafficked, and discarded by the system. She is the collective rage of the marginalized.
-*   **The Interaction:**
-    *   *Violet:* "If we trigger the alarm, the guards will come."
-    *   *Sylvia:* "Good. Let them come. I want to see them bleed."
 
-## 3. The Mystery
-*   **The Disappearance:** Sylvia didn't vanish on a case. She was snatched off the street—randomly—just like the women Violet encounters.
-*   **The Connection:** Violet’s discovery of "Subject Vane" in the Rucastle files is the inciting incident that proves Sylvia wasn't just "lost"—she was *consumed* by the machine Violet has just stumbled into.
-*   **Prompt:** `Sylvia Vane, female, platinum blonde bob, piercing blue eyes, tuxedo jacket, semi-transparent edges, ethereal glow, cinematic rim lighting (blue/purple), chromatic aberration.`
+## 1. Identity* **Role:** The Catalyst / The Avatar of Wrath.* **Status:** MIA (Presumed "Subject Zero").* **Archetype:** **The Manic Pixie Sword of Vengeance.*** **Spirit Reference:** *Onryō* / Modern *Yokai* (ala *Dandadan* or *Jujutsu Kaisen*). She is a medium for the pain of the discarded.
+
+
+
+## 2. Visuals: The "Glitch-Punk Haute Macabre" Aesthetic
+
+Sylvia should look like she was designed by a high-fashion house that specializes in crime scenes. She is synthetic, jarring, and inherently digital in a mundane world. She represents the commodified body turned into a weapon.* **The Outfit:** A deconstructed, translucent plastic raincoat (think high-end fashion meets a body bag or vacuum sealing) worn over the shredded remains of a sequined party dress—the outfit she died in. It should look uncomfortable, plasticized, and crinkly.* **The "Jarring" Elements:**
+
+* **The Wound:** A visible, stylized "Gold Kintsugi" crack or a digital glitch where her heart should be and radiates out across her body. It pulses when she gets angry.
+
+* **The Eyes:** They don't reflect the environment. They are solid, glowing cyan or void black, often weeping "digital tears" (pixels dripping upwards).
+
+* **The Contrast:** Violet is earthy/beige/textured. Sylvia is synthetic/neon/sharp. Violet looks like she smells like rain and old books; Sylvia looks like she tastes like ozone and blood.
+
+
+
+## 3. The Narrative Function
+
+Sylvia is not just a ghost; she is the **processor of trauma**.
+
+* **The Medium:** When Violet encounters a victim (like Alice), Sylvia "absorbs" their pain. Her appearance shifts slightly to reflect the victim's suffering (e.g., if a victim was strangled, Sylvia might appear with a bruised neck for that scene).* **The Dynamic:** Violet tries to repress the horror (Intellectualize). Sylvia *becomes* the horror to force Violet to look at it.
+
+* *Violet:* "The ledger says 40% casualty rate."
+
+* *Sylvia (leaning in, eyes bleeding static):* "Don't call them casualties, Vi. Say their names. Scream them."
+
+
+
+## 4. The Mystery* **The Connection:** Violet’s discovery of "Subject Vane" in the Rucastle files is the inciting incident. It proves Sylvia wasn't just "lost"—she was *consumed* by the machine.
+
+* **The Tragedy:** The woman who was "too much life" for the world to handle was reduced to a static data point. Now, she refuses to move on until the machine is broken.
+
+
+
+## 5. Image Gen Prompt Data
+
+> **[Character Tags]:** `Sylvia Vane, female, platinum blonde messy bob, glowing cyan eyes (no pupils), wearing translucent plastic raincoat over torn sequins, cyberpunk ghost, glitch art aesthetic, digital distortion effect.`
+
+> **[Visual FX]:** `Chromatic aberration, floating pixel particles, ethereal glow, high contrast neon lighting (pink/cyan), distinct from background, stylized horror, semi-transparent limbs, cinematic composition.`
 
 
 ----------------------------------------
@@ -87,23 +110,34 @@ FILE: 01_CHARACTERS/Violet_Chase.md
 
 ## 1. Identity
 *   **Role:** The Protagonist / The Accidental Detective.
+*   **Archetype:** **The Drifter / The Wasted Potential.**
+*   **Inspiration:** Julie (*The Worst Person in the World*) meets Sherlock Holmes.
 *   **Age:** 28
-*   **Occupation:** **Unemployed / Gig Worker.** (FORMERLY: Asset Recovery).
-*   **Economic Status:** Destitute. The series begins with her hitting rock bottom.
-*   **The Motivation:**
-    1.  **Initial:** Survival. She takes the Rucastle job because she is starving, not because she is hunting.
-    2.  **Evolved:** Justice/Vengeance. The horror she survives at Copper Beeches radicalizes her.
+*   **Occupation:** Gig Economy Nomad (Unemployed).
+*   **Economic Status:** Destitute. She has burned through her safety nets.
 
-## 2. Psychology: The Intellectualization Defense
-Violet is not a trained operative. She is a woman with a **trauma response that looks like superpowers.**
+## 2. The Backstory: "Jack of All Trades, Master of None"
+Violet isn't a super-spy. She is a woman who couldn't pick a lane. This is the source of her "Skill Set."
+*   **The Resume:** She did two semesters of Med School (knows anatomy/drugs) before quitting. She tried to be a Coder (knows basic hacking) but got bored. She worked in Logistics (knows shipping routes) and Photography (knows optics/observation).
+*   **The Flaw:** She knows a little bit about everything, but she isn't an expert in anything. She is used to quitting when things get hard.
+*   **The Stakes:** The Rucastle job is the first time she *cannot* quit, because the cost of quitting is death (hers or Alice's).
+
+## 3. Psychology: The Intellectualization Defense
+Violet is a woman with a **trauma response that looks like superpowers.**
+*   **The "Spectator" Syndrome:** Violet often feels like a supporting character in her own life. She watches herself exist rather than feeling it.
 *   **The Broken Logic:** When the world feels chaotic or threatening, Violet dissociates. She stops feeling fear and starts seeing **Patterns**.
-*   **The "Deduction" Mechanic:** It is not a cool gadget; it is a panic response. She counts heartbeats, calculates angles, and reads micro-expressions because if she can *quantify* the danger, she thinks she can control it.
+*   **The "Deduction" Mechanic:** It is not a cool gadget; it is a panic response. She lives below the surface of her trauma. She counts heartbeats, calculates angles, and reads micro-expressions because if she can *quantify* the danger, she thinks she can control it.
 *   **The Flaw:** Logic provides clarity, not comfort. She can deduce *how* a woman died, but she cannot process *why*.
 
-## 3. The Visuals
-*   **The "Civilian" Look:** She wears thrifted clothes, trench coats to hide her frame, and messy hair. She looks like someone trying to disappear, not someone trying to stand out.
-*   **The Glitch:** When she is stressed, her POV (the panel art) becomes overlaid with obsessive data streams/points.
-*   **Prompt:** `Violet Chase, female, 28 years old, chestnut hair, messy bun hairstyle, hazel eyes, heavy freckles on nose and cheeks, intelligent expression, sharp focus, natural skin texture, wearing fitted beige trench coat over navy turtleneck, noir lighting.`
+## 4. The Motivation
+1.  **Initial (Survival):** She takes the Rucastle job because she is starving and has exhausted the patience of every other employer in the city.
+2.  **Evolved (Vengeance):** Finding the connection to Sylvia forces her to commit. Sylvia represents the one thing Violet didn't want to quit—and the guilt that she might have been "drifting" while Sylvia was dying is what radicalizes her.
+
+## 5. The Visuals
+*   **The "Civilian" Look:** She wears thrifted clothes that don't quite match—a remnant of her various "phases." Trench coats to hide her frame, messy hair that she constantly touches.
+*   **The Vibe:** Intelligent but scattered. Beautiful but exhausted. She looks like someone who is waiting for her life to actually start.
+*   **The Glitch:** When she is stressed, her POV becomes overlaid with obsessive data streams—fragments of her abandoned degrees (medical terms, coding syntax) overlapping in a panic.
+*   **Prompt:** `Violet Chase, female, 28 years old, chestnut hair, messy bun hairstyle with loose strands, hazel eyes, heavy freckles on nose and cheeks, intelligent but weary expression, sharp focus, natural skin texture, wearing fitted beige trench coat over navy turtleneck, noir lighting, cinematic depth of field.`
 
 
 ----------------------------------------
