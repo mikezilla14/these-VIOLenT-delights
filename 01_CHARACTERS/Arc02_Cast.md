@@ -8,6 +8,6 @@
 
 ## Leo Cassian (The Nurturer)
 *   **Role:** Bio-Mechanic / The Sympathetic Ally.
-*   **Dynamic:** The counterpoint to the series' toxic males. He represents durability through softness.
+*   **Dynamic:** The counterpoint to the series' toxic males. He represents durability through softness. 
 *   **Visuals:** 30s, messy hair, oil-stained coveralls, warm eyes.
 *   **Prompt:** `Leo Cassian, male, 30s, kind eyes, weary expression, messy dark hair, wearing worn mechanic coveralls, holding a robotic hand gently, warm amber lighting, soft focus background.`

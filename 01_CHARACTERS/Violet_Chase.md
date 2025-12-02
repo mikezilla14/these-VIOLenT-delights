@@ -17,5 +17,5 @@ Violet is not a trained operative. She is a woman with a **trauma response that 
 
 ## 3. The Visuals
 *   **The "Civilian" Look:** She wears thrifted clothes, trench coats to hide her frame, and messy hair. She looks like someone trying to disappear, not someone trying to stand out.
-*   **The Glitch:** When she is stressed, her POV (the panel art) becomes overlaid with obsessive data streams.
+*   **The Glitch:** When she is stressed, her POV (the panel art) becomes overlaid with obsessive data streams/points.
 *   **Prompt:** `Violet Chase, female, 28 years old, chestnut hair, messy bun hairstyle, hazel eyes, heavy freckles on nose and cheeks, intelligent expression, sharp focus, natural skin texture, wearing fitted beige trench coat over navy turtleneck, noir lighting.`
