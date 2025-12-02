@@ -2,9 +2,12 @@
 
 
 
-## 1. Identity* **Role:** The Catalyst / The Avatar of Wrath.* **Status:** MIA (Presumed "Subject Zero").* **Archetype:** **The Manic Pixie Sword of Vengeance.*** **Spirit Reference:** *Onryō* / Modern *Yokai* (ala *Dandadan* or *Jujutsu Kaisen*). She is a medium for the pain of the discarded.
+## 1. Identity* **Role:** The Catalyst / The Avatar of Wrath.* **Status:** Deceased **Archetype:** **The Manic Pixie Sword of Vengeance.*** **Spirit Reference:** *Onryō* / Modern *Yokai* (ala *Dandadan* or *Jujutsu Kaisen*). She is a medium for the pain of the discarded.
 
-
+**The Random Victim**
+Sylvia was simply a "statistically viable candidate" plucked from the street.
+**The Horror**: Her tragedy is her insignificance to the villains. To the Rucastles, she was just "Batch 43." To Violet, she was the world.
+**The Haunting**: She represents the cruelty of a system that consumes people and moves on. She refuses to fade away until the machine that ate her is broken.
 
 ## 2. Visuals: The "Glitch-Punk Haute Macabre" Aesthetic
 
