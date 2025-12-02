@@ -9,7 +9,8 @@ on:
       - '01_CHARACTERS/**'
       - '02_World/**'
       - '03_Arcs/**'
-      - '.github/workflows/update_master_export.yml' # Trigger when you edit this file too
+      - '04_Scripts/**' # Added 04_Scripts
+      - '.github/workflows/update_master_export.yml'
 
 permissions:
   contents: write
@@ -63,6 +64,19 @@ jobs:
           if [ -d "03_Arcs" ]; then
             echo "Processing Arcs..."
             for file in 03_Arcs/*.md; do
+              [ -e "$file" ] || continue
+              echo "----------------------------------------" >> $OUTPUT_FILE
+              echo "FILE: $file" >> $OUTPUT_FILE
+              echo "----------------------------------------" >> $OUTPUT_FILE
+              cat "$file" >> $OUTPUT_FILE
+              echo -e "\n\n" >> $OUTPUT_FILE
+            done
+          fi
+
+          # 4. Add Scripts (New Section)
+          if [ -d "04_Scripts" ]; then
+            echo "Processing Scripts..."
+            for file in 04_Scripts/*.md; do
               [ -e "$file" ] || continue
               echo "----------------------------------------" >> $OUTPUT_FILE
               echo "FILE: $file" >> $OUTPUT_FILE
