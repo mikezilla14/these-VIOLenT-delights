@@ -7,34 +7,46 @@ FILE: 01_CHARACTERS/Arc01_Cast.md
 ----------------------------------------
 # Arc 01 Cast: The Rucastle Family
 
-## The Family Dynamic: "Predator or Prey"
-The Rucastles are not cartoon villains. They are a family unit warped by the belief that the world is a slaughterhouse, and they refuse to be the cattle.
+## The Family Dynamic: "The Golden Cage"
+The Rucastles are a family at war with itself. It is a dynasty built on blood, led by an aging patriarch, managed by a terrified young wife, and besieged by a usurper daughter.
 
-## Clara Rucastle (The Mother)
-*   **Role:** The Pragmatist / The Tiger Mother.
-*   **Psychology:** She has seen the cruelty of the world (poverty, the corporate crush). She decided long ago that moral purity is a luxury she cannot afford.
-*   **Motivation:** She loves her children absolutely. She enables Jephro’s "business" not because she enjoys it, but because it buys safety for her bloodline. Clara comes from a poor family and had to do everything she could to claw her way out of poverty. Jephro was her salvation from both poverty and the amoral economies of the street. There was a time that she believed in morality. She's seen too much since then. She will not let any of her family suffer like she did. In her mind allowing her children to be what she considers weak is not an option. The will prosper and she more than anyone knows only monsters prosper in this world. Her greatest fear is visiting the sins of her mother on her own children. She loved her mother dearly but that space in her heart has been overgrown with resentment for all the indignities that she lived through instead of the beautiful life her mother promised her.
-*   **The Tragedy:** She would rather her children be monsters than victims.
-*   **Prompt:** `Clara Rucastle, 50s, fading elegance, sharp eyes, wearing high-collar Victorian blouse, holding a bloody bandage, expression of twisted maternal affection, warm lighting.`
+## Clara Rucastle (The Step-Mother)
+*   **Role:** The Pragmatist / The Trophy Wife.
+*   **Age:** 32 (visibly younger than Jephro)
+*   **Psychology:** Clara was a exotic beauty, an exquisite flower somehow pushed through the dark grimy cobblestones of the slums. She saw Jephro not as a husband, but as a lifeboat out of the "amoral economies of the street." She traded her looks for safety.
+*   **Motivation:** She loves her child absolutely. She enables Jephro’s "business" not because she enjoys it, but because it buys safety for her bloodline. Her loyalty is not to Jephro, and certainly not to her step-daughters (Beatrix and Alice). Her absolute devotion is to her 6-year-old biological son, Edward. She enables Jephro’s crimes to ensure Edward inherits the empire. She fears Beatrix will kill Edward to secure succession. Clara comes from a poor family and had to do everything she could to claw her way out of poverty. Jephro was her salvation from both poverty and the amoral economies of the street. There was a time that she believed in morality. She's seen too much since then. She will not let her son suffer like she did. In her mind allowing her child be what she considers weak is not an option. He will prosper and she more than anyone knows only monsters prosper in this world. Her greatest fear is visiting the sins of her mother on her own Child. She loved her mother dearly but that space in her heart has been overgrown with resentment for all the indignities that she lived through instead of the beautiful life her mother promised her.
+*   **The Tragedy:**  She swore she would never let her child suffer the poverty she did. To keep that promise, she ignores the screams from the basement.
+*   **Prompt:** `Clara Rucastle, 32, striking beauty but tired eyes, high-collar Victorian blouse (hiding bruises or stress rash), perfect makeup masking fear, holding a cigarette with a trembling hand, warm lighting.`
 
 ## Jephro Rucastle (The Father)
 *   **Role:** The Banal Evil / The Scrubber.
 *   **Psychology:** Selfish, greedy, and lacking self-awareness. He doesn't see himself as a slaver; he sees himself as a "Headhunter" or "Talent Scout." He compartmentalizes his cruelty as "just business." He lives to assert his power. He's entire life he has been rich surrounded by staff. He's a luddite, trying to cash in on the tech pirates while they're happy to throw money around. He knows ultimately money isn't power, power is power. He's developed his power, physically, through his network of eager illegal hands and by having no scruples with getting his hands dirty. Unknown to his high tech clients he belongs to a secret society with the aim of reverting technology 50 years. Technology is a crutch that has made men weak in his eyes. In truth the society is more like a 19th century gentlemen's club than an actual movement looking to effect change but it's members include some powerful people and that might yet change in the future.
 *   **Prompt:** `Jephro Rucastle, male, 50s, heavy set, round face, jovial but sinister smile, sweaty skin texture, ill-fitting tweed suit, holding wine glass, warm fireplace lighting, uncanny valley aesthetic.`
 
-## Beatrix Rucastle (The Legacy)
-*   **Role:** The True Believer / The Nemesis / The Apex Predator.
-*   **Psychology:** Beatrix is not just cruel; she is efficient. While Jephro views his cruelty as a "gentleman’s privilege" and Clara views hers as "survival," Beatrix views it as sport. She has no memory of the poverty Clara fears, so she lacks Clara's desperate justification. Instead, she has adopted a Social Darwinist god-complex. She despises her father’s Luddite tendencies, viewing them as a weakness that slows down the "harvest." She secretly uses the very technology Jephro hates to streamline the capture and breaking of their victims. She doesn't just want to survive the slaughterhouse; she wants to own it..
+## Beatrix Rucastle (The Usurper)
+*   **Role:** The True Believer / The Nemesis /  The Step-Daughter.
+*   **Age:** 19
+*   **Relationship to Clara**: Hate. Beatrix views Clara as a "gold-digging whore" who trapped her father. She knows Clara is trying to position Edward as the heir, and Beatrix intends to crush them both.
+*   **Psychology:** Beatrix is a Social Darwinist. She despises her father’s analog methods and her step-mother’s desperate clinging to status. She is actively modernizing the family business (digital entrapment) to prove she is the only viable successor. Beatrix is not just cruel; she is efficient. Unhappy with Edward. Edward has proven to be a chip off the old block threatening Beatrix and her hard earned esteem in her father's eyes. While Jephro views his cruelty as a "gentleman’s privilege" and Clara views hers as "survival," Beatrix views it as sport. She has no memory of the poverty Clara fears, so she lacks Clara's desperate justification. Instead, she has adopted a Social Darwinist god-complex. She despises her father’s Luddite tendencies, viewing them as a weakness that slows down the "harvest." She secretly uses the very technology Jephro hates to streamline the capture and breaking of their victims. She doesn't just want to survive the slaughterhouse; she wants to own it..
 *   **Motivation:** To prove she is sharper than her mother and stronger than her father. She craves Clara’s approval but views Jephro with thinly veiled contempt. She is actively trying to modernize the family business, moving away from Jephro's messy "clubs" to digital entrapment and psychological breaking. Her ultimate goal is to depose her father, whom she sees as an obsolete dinosaur eating up resources that belong to the future (her).
 *   **The Tragedy:** She has successfully killed the part of herself that makes her human. There is no redemption arc for her; she is the monster Clara created to protect the family, but she is now dangerous even to them. She is a tiger raised in a cage, eyeing the hand that feeds her.
 *   **Prompt:** `Beatrix Rucastle, female, 19, pale skin, heavy dark cyber-goth makeup, neon green hair streaks, sneering expression, wearing black leather and mesh clothing, holding a high-tech sleek tablet and a slender "sick-stick", standing in a dark server room, harsh neon green rim lighting.`
 
-## Alice Rucastle (The Glitch)
+## Alice Rucastle (The Broken Vessel)
 *   **Role:** The Failed Prototype / "Neural Lace" Test Subject.
-*   **Psychology:** Alice suffers from hyper-empathy, a trait her parents diagnosed as a "mental defect." The "Neural Lace" was not meant to enhance her; it was a lobotomy-via-software intended to cauterize her ability to feel guilt. It failed. The rejection of the implant caused a systemic infection, leaving her in chronic pain. However, the pain has only sharpened her empathy. She dissociates to survive, often retreating into a dream world, but when she is present, she possesses a terrifying clarity: she sees exactly what her family is, without the protective delusions they all wear. Her physical infection/illness reflects the weakness that her family feels infected her though symbolically the infection was caused by the dirty hands of the Rucastle family trying to save her from her perceived weakness. Alice's nature is a product of chance encounters with staff members in her childhood that showed her kindness and compassion.
+*   **Age:** 17
+*   **Relationship to Clara:** Liability. Clara views Alice not with hate, but with cold annoyance. Alice is "broken merchandise" that threatens the family's stability.
+*   **Psychology:** Alice suffers from hyper-empathy, a trait her parents diagnosed as a "mental defect." The "Neural Lace" was not meant to enhance her; it was a lobotomy-via-software intended to cauterize her ability to feel guilt. It failed. The rejection of the implant caused a systemic infection, leaving her in chronic pain. However, the pain has only sharpened her empathy. She dissociates to survive, often retreating into a dream world, but when she is present, she possesses a terrifying clarity: she sees exactly what her family is, without the protective delusions they all wear. Her physical infection/illness reflects the weakness that her family feels infected her though symbolically the infection was caused by the dirty hands of the Rucastle family trying to save her from her perceived weakness. Alice's nature is a product of chance encounters with staff members in her childhood that showed her kindness and compassion. Hyper-empathic and physically frail due to "Neural Lace" rejection. She is the ghost in the machine, whispering warnings to the victims.
 *   **Motivation:** Atonement and defiance. Because she is physically frail and dependent on the family’s wealth for her medical treatments, she cannot leave. Instead, she engages in small acts of sabotage. She whispers warnings to the "inventory," leaves doors unlocked, or deletes data files. She stays alive not out of fear of death, but because she knows she is the only thing standing between the victims and total darkness. She holds onto the memory of the kindness shown to her by a former nanny (whom Beatrix likely "dismissed") as a religious totem.
 *   **The Tragedy:** The family destroyed her body trying to "fix" her soul. She is a prisoner in her own home, kept alive by the very blood money she despises. She knows that eventually, Beatrix will decide she is a liability rather than a sister.
 *   **Visuals:** `Alice Rucastle, female, 17, gaunt features, wearing a soiled silk hospital gown, shaved patch on head revealing a glowing red infected cybernetic port, sad haunting eyes, sitting in a wheelchair, holding a withered flower, cold clinical blue lighting, soft focus.`
+
+## Edward Rucastle (The Legacy)
+**Role**: The Fledgling Monster / The Biological Son.
+**Age**: 6
+**Significance**: He does not have a speaking role in Issue 1, but his existence explains Clara’s behavior.
+**Psychology**: He is spoiled, cruel, and mimics his father. In the original story, the child crushed cockroaches with a slipper; here, he likely abuses his robotic toys despite their human-like AI pleas with a disturbing lack of empathy. He is the monster Clara is raising.
+**Visuals**: `Small boy, 6, dressed in a miniature velvet suit, angelic face with dead eyes, holding a broken toy.`
 
 
 ----------------------------------------
@@ -62,9 +74,12 @@ FILE: 01_CHARACTERS/Sylvia_Vane.md
 
 
 
-## 1. Identity* **Role:** The Catalyst / The Avatar of Wrath.* **Status:** MIA (Presumed "Subject Zero").* **Archetype:** **The Manic Pixie Sword of Vengeance.*** **Spirit Reference:** *Onryō* / Modern *Yokai* (ala *Dandadan* or *Jujutsu Kaisen*). She is a medium for the pain of the discarded.
+## 1. Identity* **Role:** The Catalyst / The Avatar of Wrath.* **Status:** Deceased **Archetype:** **The Manic Pixie Sword of Vengeance.*** **Spirit Reference:** *Onryō* / Modern *Yokai* (ala *Dandadan* or *Jujutsu Kaisen*). She is a medium for the pain of the discarded.
 
-
+**The Random Victim**
+Sylvia was simply a "statistically viable candidate" plucked from the street.
+**The Horror**: Her tragedy is her insignificance to the villains. To the Rucastles, she was just "Batch 43." To Violet, she was the world.
+**The Haunting**: She represents the cruelty of a system that consumes people and moves on. She refuses to fade away until the machine that ate her is broken.
 
 ## 2. Visuals: The "Glitch-Punk Haute Macabre" Aesthetic
 
@@ -211,17 +226,20 @@ Destitute gig-worker Violet Chase accepts a suspicious high-paying job as an "Ae
 
 ## Key Plot Beats
 
-**The Hook (The Desperation)**: Violet accepts the job to avoid eviction. She ignores the red flags (isolation, NDA, physical surrender) for the paycheck.
+**The Hook (The Desperation)**:  Violet accepts the Rucastle job to pay rent. The high salary (₡15,000) acts as economic coercion, forcing her to ignore the red flags.
 **The Makeover (The Violation)**: Violet is stripped of her identity. She meets Beatrix, who treats her with disdain but also curiosity. Beatrix is the one who cuts her hair, noting Violet's "calculating eyes" aren't like the usual drugged-up girls they hire.
-**The Dinner (The Dynamic)**: A tense family dinner establishes the hierarchy. Jephro bullies Beatrix for her obsession with technology. Clara enables the abuse to keep the peace. Violet utilizes her Trauma Logic to de-escalate Jephro, earning a moment of grudging respect from Beatrix.
+**The Dinner (The Dynamic)**: A tense family dinner establishes the hierarchy. Jephro bullies Beatrix for her obsession with technology. Clara enables the abuse to keep the peace. Violet utilizes her Trauma Logic to de-escalate Jephro, earning Beatrix's attention. Violet realizes Beatrix is also a prisoner, but one vying for the warden's keys.
 **The False Alliance**: Violet and Beatrix bond momentarily over a piece of tech (Jephro's jammer). Violet realizes Beatrix is also a prisoner of this house. Beatrix almost helps Violet send a message out, showing a crack in her armor.
-**The Discovery**: Violet finds Protocol: VANE in the wetware lab. She realizes the "Surrogates" aren't models; they are chassis.
 **The Climax (The Choice)**:
 Violet hacks the Cyber-Mastiff to attack Jephro during a violent confrontation.
 `Beatrix's Crucible`: Beatrix holds the "Kill Switch" for the dog. She sees her father being mauled.
 The Pivot: Instead of saving him, she realizes this is her succession. She pockets the remote and watches him die.
 Violet is horrified. She realizes she hasn't liberated a victim; she has crowned a new monster.
-**The Escape**: Violet rescues Alice and flees, leaving Beatrix as the new head of the Rucastle criminal empire.
+**The Aftermath (The Realization)**:
+Violet escapes the estate, liberating Alice.
+Violet visits Sylvia's estranged parents, looking for answers.
+The Twist: In a box of Sylvia's "leftover things," Violet finds an Electric Blue Dress—identical to the one Rucastle made Violet wear.
+The Horror: Sylvia wasn't "missing." She was a previous Rucastle surrogate. She died in that house. The haunting is no longer a question; it's a call to war.
 
 ## Asset Prompts
 *   **Location:** `Wide angle shot of menacing estate, Tudor architecture mixed with Brutalist concrete, copper-colored metallic trees, heavy rain, ominous atmosphere.`
