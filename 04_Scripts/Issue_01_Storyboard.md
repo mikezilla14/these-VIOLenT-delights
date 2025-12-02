@@ -70,6 +70,25 @@
 
 ---
 
+**Panel 12a (The Encounter)**
+*   **Visual**: Violet is following Clara, but a hulking figure blocks the hallway. It is SILAS TOLLER. He is struggling to secure a heavy collar onto a CYBER-MASTIFF (not fully revealed yet, just claws and metal).
+Sound SFX: CLANG. WHINE.
+**Panel 12b (The Observation)**
+*   **Visual**: Violet’s POV. Deduction Overlay activates.
+Focus: Silas’s hands. They are shaking violently as he tries to thread a bolt.
+Overlay: [TREMOR: 6Hz] [PUPILS: PINPOINT] [DIAGNOSIS: CHEMICAL WITHDRAWAL]
+Violet (Internal): He’s not clumsy. He’s crashing. The security system is an addict.
+**Panel 12c (The Dismissal)**
+*   **Visual:** Clara snaps her fingers.
+Clara: "Toller. Get the beast to the cellar. We have guests."
+Silas: He glares at Violet, eyes bloodshot. A moment of unprompted hostility.
+Silas: "Another doll for the collection? Don't wander at night, girl. The beast gets hungry."
+*   **Panel 12d (The Clue)**
+*   **Visual**: EUDORA TOLLER steps out of the shadows. She hands Silas a flask without a word. The dynamic is clear: she manages his addiction so he can manage the dog.
+Violet (Internal): The wife enables the husband. The husband enables the dog. The dog protects the house. If I want to break the house, I break the chain.
+
+
+
 ## SEQUENCE 3: THE MAKEOVER (Panels 13-18)
 **Setting:** *The Manor Bathroom.*
 **Atmosphere:** Clinical, violating, cold.

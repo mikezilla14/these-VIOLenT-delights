@@ -40,3 +40,16 @@ The Rucastles are a family at war with itself. It is a dynasty built on blood, l
 **Significance**: He does not have a speaking role in Issue 1, but his existence explains Clara’s behavior.
 **Psychology**: He is spoiled, cruel, and mimics his father. In the original story, the child crushed cockroaches with a slipper; here, he likely abuses his robotic toys despite their human-like AI pleas with a disturbing lack of empathy. He is the monster Clara is raising.
 **Visuals**: `Small boy, 6, dressed in a miniature velvet suit, angelic face with dead eyes, holding a broken toy.`
+
+## Silas Toller (The Houndmaster)
+**Role**: The Drunken Jailer / The Dog Handler.
+**Source Material**: Based on the drunkard servant Toller.
+**Psychology**: Silas is a disgraced ex-military bio-handler who lost his license due to substance abuse. Jephro hired him because he is "analog"—he controls the Cyber-Mastiff using voice commands and a localized frequency whistle, not a digital network. This makes him un-hackable by outsiders, but his addiction makes him the weak link in the security chain. He hates Beatrix (who calls him "obsolete meat") and fears Jephro.
+**Narrative Function**: He allows Violet to gather intel without snooping. By observing his withdrawal tremors (using her medical background) or catching him in a drunken stupor, she gains access to the Mastiff’s pen or learns about the "thing in the attic" through his drunken ramblings.
+**Visuals**: `Silas Toller, male, 50s, greasy grey hair, broken capillaries on nose (alcoholic), wearing stained oil-rigger coveralls, carrying a heavy magnetic leash and a flask, grime under fingernails, harsh utility lighting.`
+## Eudora Toller (The Silent Witness)
+**Role**: The Housekeeper / The Enforcer.
+**Source Material**: Based on Mrs. Toller (the "sour-faced woman").
+**Psychology**: While Silas is volatile, Eudora is terrifyingly disciplined. She manages the "Aesthetic Surrogates." She doesn't speak unless necessary. She views the girls (Violet, and previously Sylvia/Alice) as "inventory" to be washed, fed, and prepped. However, she has a specific "tell": she refuses to look at the attic door.
+**The Mystery**: Violet initially deduces Eudora is a robot because of her cold efficiency. The "Aha!" moment comes when Violet realizes Eudora is human, just emotionally cauterized by years of complicity.
+**Visuals**: `Eudora Toller, female, 60s, imposing height, severe bun hairstyle, wearing a starch-stiff victorian housekeeper uniform made of ballistic nylon, holding a ring of old-fashioned iron keys, cold expression, cinematic shadow.`
