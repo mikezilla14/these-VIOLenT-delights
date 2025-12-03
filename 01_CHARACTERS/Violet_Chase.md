@@ -17,8 +17,20 @@ Violet isn't a super-spy. She is a woman who couldn't pick a lane. This is the s
 ## 3. Psychology: The Intellectualization Defense
 Violet is a woman with a **trauma response that looks like superpowers.**
 *   **The "Spectator" Syndrome:** Violet often feels like a supporting character in her own life. She watches herself exist rather than feeling it.
-*   **The Broken Logic:** When the world feels chaotic or threatening, Violet dissociates. She stops feeling fear and starts seeing **Patterns**.
-*   **The "Deduction" Mechanic:** It is not a cool gadget; it is a panic response. She lives below the surface of her trauma. She counts heartbeats, calculates angles, and reads micro-expressions because if she can *quantify* the danger, she thinks she can control it.
+Violet is not a psychic; she is a hyper-observer with no filter. Her "Broken Logic" is a trauma response that converts terror into data.
+
+*   **The Trigger (Dissociation):** When the world feels chaotic or threatening, Violet involuntarily detaches. She stops feeling fear and starts seeing **Patterns**. This is not a superpower she summons; it is a survival mechanism she cannot turn off.
+*   **The Burden of Sight:** The tragedy of Violet’s life is that she is always stressed because she is always looking. To an average person, a room is static and safe. To Violet, the room is screaming with hidden information—the micro-tremor in a hand, the scuff on a shoe, the lie in a smile. She sees through the superficial facade to the threatening truths people carry.
+
+### The "Rolling Ball" Theory (How It Works)
+Violet explains her ability simply: *"If you see a ball rolling toward the edge of a table, knowing it will fall isn't magic. It's just physics."*
+
+*   **The Blind Spot:** Most people only see the ball. They miss the context.
+*   **The Violet Sight:** Violet sees the **Cause** (the slight tilt of the table) and the **Kinetic Energy** (the speed of the roll).
+*   **The Deduction:** Her "superpower" isn't predicting the future; it is perceiving the **Motion of the Present** with agonizing clarity. She accumulates the tiny, invisible data points that give "movement" to a static scene, allowing her to see the inevitable effect that everyone else misses.
+    *   *Example:* She doesn't "guess" a man is violent. She sees the bruised knuckles (Data), the dilated pupils (Data), and the defensive posture of his wife (Data). The "Ball" is already rolling; she just knows where it lands.
+
+
 *   **The Flaw:** Logic provides clarity, not comfort. She can deduce *how* a woman died, but she cannot process *why*.
 
 ## 4. The Motivation
@@ -27,6 +39,6 @@ Violet is a woman with a **trauma response that looks like superpowers.**
 
 ## 5. The Visuals
 *   **The "Civilian" Look:** She wears thrifted clothes that don't quite match—a remnant of her various "phases." Trench coats to hide her frame, messy hair that she constantly touches.
-*   **The Vibe:** Intelligent but scattered. Beautiful but exhausted. She looks like someone who is waiting for her life to actually start.
-*   **The Glitch:** When she is stressed, her POV becomes overlaid with obsessive data streams—fragments of her abandoned degrees (medical terms, coding syntax) overlapping in a panic.
+### Visualizing the Logic
+*   **The Glitch:** When this state activates, the art style shifts. The chaotic noise of the panel fades. Key details—the rolling ball, the sweat bead, the loaded gun—are highlighted in sharp, clinical focus, often overlaid with "connective lines" showing the trajectory of her thought process.   
 *   **Prompt:** `Violet Chase, female, 28 years old, chestnut hair, messy bun hairstyle with loose strands, hazel eyes, heavy freckles on nose and cheeks, intelligent but weary expression, sharp focus, natural skin texture, wearing fitted beige trench coat over navy turtleneck, noir lighting, cinematic depth of field.`

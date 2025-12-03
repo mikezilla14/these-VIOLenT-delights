@@ -59,7 +59,7 @@
 *   **Visual:** The Rucastle Manor. A monstrosity of old Tudor wood and Brutalist concrete. Rain lashes the roof.
 
 **Panel 10 (The Greeting - Clara)**
-*   **Visual:** The front door opens. **CLARA RUCASTLE** (50s, High collar blouse, stern) stands there. She looks Violet up and down like she's buying a horse.
+*   **Visual:** The front door opens. **CLARA RUCASTLE** (early 30s, High collar blouse, stern) stands there. She looks Violet up and down like she's buying a horse.
 *   **Clara:** "She's too thin, Jephro. The dress will hang."
 *   **Jephro:** "We'll feed her, Clara. We're not savages."
 
